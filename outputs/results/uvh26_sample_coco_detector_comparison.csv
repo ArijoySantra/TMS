@@ -1,0 +1,3 @@
+model,weights,images,ms_per_image_cpu,vehicles_per_image,mean_confidence,eval_classes,mAP50,mAP50-95,vehicle_AP50 (class-agnostic),vehicle_AP50-95 (class-agnostic)
+yolo26s.pt,COCO,500,151.061,9.196,0.563,coarse (COCO-compatible),0.49,0.341,0.516,0.337
+rtdetr-l.pt,COCO,500,998.346,24.34,0.482,coarse (COCO-compatible),0.578,0.407,0.661,0.416

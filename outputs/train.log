@@ -1,0 +1,70 @@
+  risk run 1/40 (clear): 14 collisions
+  risk run 2/40 (clear): 10 collisions
+  risk run 3/40 (rain): 162 collisions
+  risk run 4/40 (rain): 32 collisions
+  risk run 5/40 (clear): 35 collisions
+  risk run 6/40 (clear): 20 collisions
+  risk run 7/40 (clear): 17 collisions
+  risk run 8/40 (clear): 34 collisions
+  risk run 9/40 (clear): 62 collisions
+  risk run 10/40 (clear): 5 collisions
+  risk run 11/40 (clear): 26 collisions
+  risk run 12/40 (rain): 14 collisions
+  risk run 13/40 (rain): 84 collisions
+  risk run 14/40 (clear): 14 collisions
+  risk run 15/40 (clear): 26 collisions
+  risk run 16/40 (clear): 20 collisions
+  risk run 17/40 (clear): 21 collisions
+  risk run 18/40 (clear): 17 collisions
+  risk run 19/40 (clear): 14 collisions
+  risk run 20/40 (clear): 9 collisions
+  risk run 21/40 (rain): 103 collisions
+  risk run 22/40 (clear): 9 collisions
+  risk run 23/40 (clear): 13 collisions
+  risk run 24/40 (clear): 40 collisions
+  risk run 25/40 (clear): 18 collisions
+  risk run 26/40 (rain): 25 collisions
+  risk run 27/40 (clear): 15 collisions
+  risk run 28/40 (clear): 11 collisions
+  risk run 29/40 (clear): 22 collisions
+  risk run 30/40 (rain): 16 collisions
+  risk run 31/40 (rain): 70 collisions
+  risk run 32/40 (clear): 19 collisions
+  risk run 33/40 (rain): 117 collisions
+  risk run 34/40 (clear): 17 collisions
+  risk run 35/40 (rain): 47 collisions
+  risk run 36/40 (clear): 17 collisions
+  risk run 37/40 (rain): 150 collisions
+  risk run 38/40 (clear): 27 collisions
+  risk run 39/40 (clear): 26 collisions
+  risk run 40/40 (clear): 30 collisions
+  risk metrics: {'AUC': 0.7082, 'PR_AUC': 0.7595, 'F1': 0.6722, 'recall': 0.783, 'precision': 0.5889, 'threshold': 0.4, 'test_positive_rate': 0.5135, 'n_test': 1920.0}
+  feature importance:
+ rain              0.465
+veh_count         0.136
+density_veh_km    0.090
+conflicts         0.060
+min_ttc           0.053
+queue             0.052
+mean_speed        0.050
+speed_std         0.048
+hard_brakes       0.045
+  trained ppo for 300000 steps in 503s -> /home/claude/traffic-system/outputs/models/ppo.zip
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+  trained ppo_forecast for 300000 steps in 505s -> /home/claude/traffic-system/outputs/models/ppo_forecast.zip
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+Warning! pyarrow is installed with version 26.0.0 which might be incompatible with libsumo which is compiled against libarrow2300.
+ Try to uninstall pyarrow or install a matching pyarrow version, if you encounter problems.
+  trained ppo_uncertainty for 300000 steps in 499s -> /home/claude/traffic-system/outputs/models/ppo_uncertainty.zip

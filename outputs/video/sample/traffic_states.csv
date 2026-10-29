@@ -1,0 +1,2 @@
+time_s,count_N,queue_N,queue_m_N,speed_N,speed_std_N,density_N,min_ttc_N,conflicts_N,hard_brakes_N,veh_N
+7.9,25,5.9625,21.26753408908844,0.04591751452982511,0.06861468445705225,60.125,0.05620886270411221,8,0,6.0125

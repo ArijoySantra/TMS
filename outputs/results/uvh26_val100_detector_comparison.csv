@@ -1,0 +1,4 @@
+model,weights,images,ms_per_image_cpu,vehicles_per_image,mean_confidence,mAP50 (5 groups),mAP50-95 (5 groups),vehicle_AP50 (class-agnostic),vehicle_AP50-95 (class-agnostic),mAP50 (14 UVH-26 classes),mAP50-95 (14 UVH-26 classes)
+yolo26s.pt,COCO,100,119.638,59.27,0.132,0.573,0.383,0.679,0.423,,
+rtdetr-l.pt,COCO,100,907.326,154.8,0.169,0.61,0.418,0.711,0.449,,
+best.pt,UVH-26,100,73.543,47.6,0.209,0.723,0.565,0.844,0.648,0.425,0.344

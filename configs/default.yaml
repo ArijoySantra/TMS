@@ -1,0 +1,80 @@
+# Default configuration for the whole system. Override with --config my.yaml.
+
+sim:
+  approach_length: 200        # metres from the outer node to the junction
+  lanes: 2                    # incoming lanes per approach
+  lefthand: true              # India drives on the left
+  speed_limit: 13.89          # m/s (50 km/h)
+  step_length: 1.0            # SUMO seconds per step
+  episode_seconds: 3600       # one RL episode = 1 simulated hour
+  sublane: false              # true = SUMO sublane model (lane-less mixed traffic, slower)
+  # Mixed Indian traffic share by vehicle class
+  vehicle_mix:
+    motorcycle: 0.40
+    car: 0.30
+    auto: 0.15
+    lcv: 0.05
+    bus: 0.05
+    truck: 0.05
+  turn_ratio: {straight: 0.6, left: 0.2, right: 0.2}
+  demand:
+    base_vph: [250, 650]      # per-approach base flow range (veh/h), sampled per episode
+    peak_multiplier: [1.4, 2.4]
+    block_seconds: 300        # demand changes every 5 minutes
+  aggressive_share: 0.015     # share of risky drivers (red-light running, short headways)
+
+signal:
+  phasing: protected          # protected: 4 phases (2 through + 2 crossing-turn); split: one approach at a time
+  delta_time: 5               # seconds between controller decisions
+  yellow_time: 3
+  min_green: 10
+  max_green: 60
+  fixed_time_green: 30        # fixed-time baseline green per phase
+
+observation:
+  # Camera imperfection model used for robustness experiments
+  noise_std: 0.25             # multiplicative log-normal noise on counts / queues
+  dropout_prob: 0.15          # probability an approach's measurement is missing in a step
+
+reward:
+  switch_penalty: 0.1
+
+rl:
+  total_timesteps: 300000
+  n_envs: 4
+  learning_rate: 0.0003
+  n_steps: 512
+  batch_size: 256
+  gamma: 0.99
+  eval_episodes: 5
+
+forecast:
+  interval_seconds: 60        # aggregation interval for time series
+  history: 30                 # minutes of history fed to the model
+  horizons: [5, 10, 15]       # minutes ahead
+  collect_hours: 4            # hours simulated per collection run
+  collect_runs: 24
+  epochs: 30
+  batch_size: 128
+  patch_len: 6
+
+risk:
+  window_seconds: 60          # feature window
+  horizon_seconds: 300        # label = collision on approach within next 5 min
+  ttc_threshold: 1.5          # seconds, for conflict counting
+
+vision:
+  model: yolo26s.pt           # COCO weights; swap for the UVH-26 fine-tuned best.pt from the Colab notebook
+  tracker: bytetrack.yaml     # or ocsort via boxmot
+  conf: 0.3
+  imgsz: 960
+  stopped_speed: 1.4          # m/s, below this a vehicle counts as queued
+  frame_stride: 1             # process every k-th frame (2-3 on CPU-only machines)
+
+incident:
+  decel_threshold: 4.0        # m/s^2 abrupt deceleration
+  stop_seconds: 8             # stationary in a moving stream for this long
+  overlap_iou: 0.25           # bbox overlap between two tracks
+  score_threshold: 0.6
+  confirm_threshold: 0.5      # VideoMAE probability to confirm
+  clip_seconds: 4
