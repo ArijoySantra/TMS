@@ -1,0 +1,15 @@
+{
+  "location": "Example junction, Bhubaneswar",
+  "fps": null,
+  "comment": "Pixel coordinates for a 1280x720 overhead view. Draw each approach polygon over the lanes leading to the stop line; ground points come from measured lane markings.",
+  "calibration": {
+    "image_points": [[420, 300], [860, 300], [1180, 700], [100, 700]],
+    "ground_points_m": [[0, 0], [14, 0], [14, 30], [0, 30]]
+  },
+  "approaches": [
+    {"name": "N", "polygon": [[540, 0], [640, 0], [640, 250], [500, 250]], "stop_line": [[500, 250], [640, 250]], "length_m": 50, "lanes": 2},
+    {"name": "E", "polygon": [[1280, 220], [1280, 330], [860, 330], [860, 260]], "stop_line": [[860, 260], [860, 330]], "length_m": 50, "lanes": 2},
+    {"name": "S", "polygon": [[650, 720], [900, 720], [780, 450], [650, 450]], "stop_line": [[650, 450], [780, 450]], "length_m": 50, "lanes": 2},
+    {"name": "W", "polygon": [[0, 380], [0, 520], [420, 470], [420, 400]], "stop_line": [[420, 400], [420, 470]], "length_m": 50, "lanes": 2}
+  ]
+}

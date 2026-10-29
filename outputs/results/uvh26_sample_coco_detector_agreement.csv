@@ -1,0 +1,5 @@
+,value
+matched_boxes,4259.0
+yolo26s.pt_boxes,4598.0
+rtdetr-l.pt_boxes,12170.0
+agreement_pct (matched / union),34.04748581021664

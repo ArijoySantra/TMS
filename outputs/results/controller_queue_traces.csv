@@ -1,0 +1,901 @@
+controller,condition,minute,queue
+Fixed-time,clean,0,8.0
+Fixed-time,clean,1,8.0
+Fixed-time,clean,2,10.0
+Fixed-time,clean,3,12.0
+Fixed-time,clean,4,17.0
+Fixed-time,clean,5,6.0
+Fixed-time,clean,6,5.0
+Fixed-time,clean,7,7.0
+Fixed-time,clean,8,10.0
+Fixed-time,clean,9,16.0
+Fixed-time,clean,10,16.0
+Fixed-time,clean,11,10.0
+Fixed-time,clean,12,8.0
+Fixed-time,clean,13,8.0
+Fixed-time,clean,14,13.0
+Fixed-time,clean,15,11.0
+Fixed-time,clean,16,19.0
+Fixed-time,clean,17,3.0
+Fixed-time,clean,18,3.0
+Fixed-time,clean,19,14.0
+Fixed-time,clean,20,9.0
+Fixed-time,clean,21,16.0
+Fixed-time,clean,22,6.0
+Fixed-time,clean,23,6.0
+Fixed-time,clean,24,13.0
+Fixed-time,clean,25,20.0
+Fixed-time,clean,26,18.0
+Fixed-time,clean,27,6.0
+Fixed-time,clean,28,9.0
+Fixed-time,clean,29,12.0
+Fixed-time,clean,30,9.0
+Fixed-time,clean,31,17.0
+Fixed-time,clean,32,10.0
+Fixed-time,clean,33,19.0
+Fixed-time,clean,34,9.0
+Fixed-time,clean,35,9.0
+Fixed-time,clean,36,19.0
+Fixed-time,clean,37,9.0
+Fixed-time,clean,38,23.0
+Fixed-time,clean,39,11.0
+Fixed-time,clean,40,8.0
+Fixed-time,clean,41,17.0
+Fixed-time,clean,42,11.0
+Fixed-time,clean,43,10.0
+Fixed-time,clean,44,17.0
+Fixed-time,clean,45,13.0
+Fixed-time,clean,46,12.0
+Fixed-time,clean,47,10.0
+Fixed-time,clean,48,18.0
+Fixed-time,clean,49,18.0
+Fixed-time,clean,50,30.0
+Fixed-time,clean,51,11.0
+Fixed-time,clean,52,17.0
+Fixed-time,clean,53,16.0
+Fixed-time,clean,54,18.0
+Fixed-time,clean,55,18.0
+Fixed-time,clean,56,7.0
+Fixed-time,clean,57,11.0
+Fixed-time,clean,58,6.0
+Fixed-time,clean,59,7.0
+Max-Pressure,clean,0,5.0
+Max-Pressure,clean,1,5.0
+Max-Pressure,clean,2,6.0
+Max-Pressure,clean,3,7.0
+Max-Pressure,clean,4,7.0
+Max-Pressure,clean,5,5.0
+Max-Pressure,clean,6,4.0
+Max-Pressure,clean,7,4.0
+Max-Pressure,clean,8,3.0
+Max-Pressure,clean,9,3.0
+Max-Pressure,clean,10,7.0
+Max-Pressure,clean,11,11.0
+Max-Pressure,clean,12,3.0
+Max-Pressure,clean,13,5.0
+Max-Pressure,clean,14,4.0
+Max-Pressure,clean,15,5.0
+Max-Pressure,clean,16,6.0
+Max-Pressure,clean,17,4.0
+Max-Pressure,clean,18,0.0
+Max-Pressure,clean,19,7.0
+Max-Pressure,clean,20,8.0
+Max-Pressure,clean,21,5.0
+Max-Pressure,clean,22,4.0
+Max-Pressure,clean,23,5.0
+Max-Pressure,clean,24,9.0
+Max-Pressure,clean,25,5.0
+Max-Pressure,clean,26,9.0
+Max-Pressure,clean,27,7.0
+Max-Pressure,clean,28,4.0
+Max-Pressure,clean,29,6.0
+Max-Pressure,clean,30,6.0
+Max-Pressure,clean,31,5.0
+Max-Pressure,clean,32,6.0
+Max-Pressure,clean,33,3.0
+Max-Pressure,clean,34,7.0
+Max-Pressure,clean,35,6.0
+Max-Pressure,clean,36,10.0
+Max-Pressure,clean,37,4.0
+Max-Pressure,clean,38,6.0
+Max-Pressure,clean,39,3.0
+Max-Pressure,clean,40,11.0
+Max-Pressure,clean,41,7.0
+Max-Pressure,clean,42,6.0
+Max-Pressure,clean,43,5.0
+Max-Pressure,clean,44,5.0
+Max-Pressure,clean,45,11.0
+Max-Pressure,clean,46,10.0
+Max-Pressure,clean,47,2.0
+Max-Pressure,clean,48,8.0
+Max-Pressure,clean,49,6.0
+Max-Pressure,clean,50,5.0
+Max-Pressure,clean,51,11.0
+Max-Pressure,clean,52,8.0
+Max-Pressure,clean,53,6.0
+Max-Pressure,clean,54,12.0
+Max-Pressure,clean,55,2.0
+Max-Pressure,clean,56,8.0
+Max-Pressure,clean,57,1.0
+Max-Pressure,clean,58,4.0
+Max-Pressure,clean,59,4.0
+PPO,clean,0,5.0
+PPO,clean,1,5.0
+PPO,clean,2,7.0
+PPO,clean,3,1.0
+PPO,clean,4,8.0
+PPO,clean,5,10.0
+PPO,clean,6,4.0
+PPO,clean,7,6.0
+PPO,clean,8,4.0
+PPO,clean,9,0.0
+PPO,clean,10,9.0
+PPO,clean,11,8.0
+PPO,clean,12,4.0
+PPO,clean,13,9.0
+PPO,clean,14,7.0
+PPO,clean,15,5.0
+PPO,clean,16,5.0
+PPO,clean,17,2.0
+PPO,clean,18,3.0
+PPO,clean,19,10.0
+PPO,clean,20,6.0
+PPO,clean,21,4.0
+PPO,clean,22,1.0
+PPO,clean,23,9.0
+PPO,clean,24,7.0
+PPO,clean,25,5.0
+PPO,clean,26,6.0
+PPO,clean,27,5.0
+PPO,clean,28,10.0
+PPO,clean,29,4.0
+PPO,clean,30,4.0
+PPO,clean,31,7.0
+PPO,clean,32,7.0
+PPO,clean,33,5.0
+PPO,clean,34,7.0
+PPO,clean,35,7.0
+PPO,clean,36,3.0
+PPO,clean,37,2.0
+PPO,clean,38,11.0
+PPO,clean,39,9.0
+PPO,clean,40,10.0
+PPO,clean,41,5.0
+PPO,clean,42,8.0
+PPO,clean,43,7.0
+PPO,clean,44,5.0
+PPO,clean,45,7.0
+PPO,clean,46,9.0
+PPO,clean,47,8.0
+PPO,clean,48,4.0
+PPO,clean,49,8.0
+PPO,clean,50,6.0
+PPO,clean,51,3.0
+PPO,clean,52,14.0
+PPO,clean,53,5.0
+PPO,clean,54,9.0
+PPO,clean,55,7.0
+PPO,clean,56,7.0
+PPO,clean,57,5.0
+PPO,clean,58,2.0
+PPO,clean,59,4.0
+PPO + forecast,clean,0,3.0
+PPO + forecast,clean,1,4.0
+PPO + forecast,clean,2,3.0
+PPO + forecast,clean,3,3.0
+PPO + forecast,clean,4,9.0
+PPO + forecast,clean,5,8.0
+PPO + forecast,clean,6,6.0
+PPO + forecast,clean,7,6.0
+PPO + forecast,clean,8,3.0
+PPO + forecast,clean,9,9.0
+PPO + forecast,clean,10,15.0
+PPO + forecast,clean,11,10.0
+PPO + forecast,clean,12,7.0
+PPO + forecast,clean,13,9.0
+PPO + forecast,clean,14,7.0
+PPO + forecast,clean,15,8.0
+PPO + forecast,clean,16,0.0
+PPO + forecast,clean,17,2.0
+PPO + forecast,clean,18,2.0
+PPO + forecast,clean,19,13.0
+PPO + forecast,clean,20,4.0
+PPO + forecast,clean,21,5.0
+PPO + forecast,clean,22,1.0
+PPO + forecast,clean,23,7.0
+PPO + forecast,clean,24,13.0
+PPO + forecast,clean,25,8.0
+PPO + forecast,clean,26,6.0
+PPO + forecast,clean,27,5.0
+PPO + forecast,clean,28,3.0
+PPO + forecast,clean,29,4.0
+PPO + forecast,clean,30,8.0
+PPO + forecast,clean,31,7.0
+PPO + forecast,clean,32,6.0
+PPO + forecast,clean,33,4.0
+PPO + forecast,clean,34,7.0
+PPO + forecast,clean,35,6.0
+PPO + forecast,clean,36,8.0
+PPO + forecast,clean,37,10.0
+PPO + forecast,clean,38,4.0
+PPO + forecast,clean,39,7.0
+PPO + forecast,clean,40,12.0
+PPO + forecast,clean,41,8.0
+PPO + forecast,clean,42,4.0
+PPO + forecast,clean,43,3.0
+PPO + forecast,clean,44,6.0
+PPO + forecast,clean,45,11.0
+PPO + forecast,clean,46,15.0
+PPO + forecast,clean,47,10.0
+PPO + forecast,clean,48,10.0
+PPO + forecast,clean,49,8.0
+PPO + forecast,clean,50,7.0
+PPO + forecast,clean,51,9.0
+PPO + forecast,clean,52,9.0
+PPO + forecast,clean,53,10.0
+PPO + forecast,clean,54,7.0
+PPO + forecast,clean,55,5.0
+PPO + forecast,clean,56,7.0
+PPO + forecast,clean,57,3.0
+PPO + forecast,clean,58,2.0
+PPO + forecast,clean,59,5.0
+Uncertainty-aware PPO,clean,0,8.0
+Uncertainty-aware PPO,clean,1,6.0
+Uncertainty-aware PPO,clean,2,2.0
+Uncertainty-aware PPO,clean,3,6.0
+Uncertainty-aware PPO,clean,4,10.0
+Uncertainty-aware PPO,clean,5,9.0
+Uncertainty-aware PPO,clean,6,8.0
+Uncertainty-aware PPO,clean,7,5.0
+Uncertainty-aware PPO,clean,8,2.0
+Uncertainty-aware PPO,clean,9,1.0
+Uncertainty-aware PPO,clean,10,15.0
+Uncertainty-aware PPO,clean,11,6.0
+Uncertainty-aware PPO,clean,12,2.0
+Uncertainty-aware PPO,clean,13,4.0
+Uncertainty-aware PPO,clean,14,9.0
+Uncertainty-aware PPO,clean,15,1.0
+Uncertainty-aware PPO,clean,16,4.0
+Uncertainty-aware PPO,clean,17,0.0
+Uncertainty-aware PPO,clean,18,2.0
+Uncertainty-aware PPO,clean,19,10.0
+Uncertainty-aware PPO,clean,20,11.0
+Uncertainty-aware PPO,clean,21,0.0
+Uncertainty-aware PPO,clean,22,1.0
+Uncertainty-aware PPO,clean,23,10.0
+Uncertainty-aware PPO,clean,24,10.0
+Uncertainty-aware PPO,clean,25,4.0
+Uncertainty-aware PPO,clean,26,8.0
+Uncertainty-aware PPO,clean,27,4.0
+Uncertainty-aware PPO,clean,28,12.0
+Uncertainty-aware PPO,clean,29,4.0
+Uncertainty-aware PPO,clean,30,12.0
+Uncertainty-aware PPO,clean,31,4.0
+Uncertainty-aware PPO,clean,32,5.0
+Uncertainty-aware PPO,clean,33,4.0
+Uncertainty-aware PPO,clean,34,5.0
+Uncertainty-aware PPO,clean,35,7.0
+Uncertainty-aware PPO,clean,36,6.0
+Uncertainty-aware PPO,clean,37,2.0
+Uncertainty-aware PPO,clean,38,8.0
+Uncertainty-aware PPO,clean,39,11.0
+Uncertainty-aware PPO,clean,40,7.0
+Uncertainty-aware PPO,clean,41,12.0
+Uncertainty-aware PPO,clean,42,3.0
+Uncertainty-aware PPO,clean,43,3.0
+Uncertainty-aware PPO,clean,44,8.0
+Uncertainty-aware PPO,clean,45,8.0
+Uncertainty-aware PPO,clean,46,10.0
+Uncertainty-aware PPO,clean,47,7.0
+Uncertainty-aware PPO,clean,48,7.0
+Uncertainty-aware PPO,clean,49,7.0
+Uncertainty-aware PPO,clean,50,6.0
+Uncertainty-aware PPO,clean,51,7.0
+Uncertainty-aware PPO,clean,52,10.0
+Uncertainty-aware PPO,clean,53,9.0
+Uncertainty-aware PPO,clean,54,11.0
+Uncertainty-aware PPO,clean,55,6.0
+Uncertainty-aware PPO,clean,56,3.0
+Uncertainty-aware PPO,clean,57,5.0
+Uncertainty-aware PPO,clean,58,2.0
+Uncertainty-aware PPO,clean,59,6.0
+Fixed-time,noisy,0,8.0
+Fixed-time,noisy,1,8.0
+Fixed-time,noisy,2,10.0
+Fixed-time,noisy,3,12.0
+Fixed-time,noisy,4,17.0
+Fixed-time,noisy,5,6.0
+Fixed-time,noisy,6,5.0
+Fixed-time,noisy,7,7.0
+Fixed-time,noisy,8,10.0
+Fixed-time,noisy,9,16.0
+Fixed-time,noisy,10,16.0
+Fixed-time,noisy,11,10.0
+Fixed-time,noisy,12,8.0
+Fixed-time,noisy,13,8.0
+Fixed-time,noisy,14,13.0
+Fixed-time,noisy,15,11.0
+Fixed-time,noisy,16,19.0
+Fixed-time,noisy,17,3.0
+Fixed-time,noisy,18,3.0
+Fixed-time,noisy,19,14.0
+Fixed-time,noisy,20,9.0
+Fixed-time,noisy,21,16.0
+Fixed-time,noisy,22,6.0
+Fixed-time,noisy,23,6.0
+Fixed-time,noisy,24,13.0
+Fixed-time,noisy,25,20.0
+Fixed-time,noisy,26,18.0
+Fixed-time,noisy,27,6.0
+Fixed-time,noisy,28,9.0
+Fixed-time,noisy,29,12.0
+Fixed-time,noisy,30,9.0
+Fixed-time,noisy,31,17.0
+Fixed-time,noisy,32,10.0
+Fixed-time,noisy,33,19.0
+Fixed-time,noisy,34,9.0
+Fixed-time,noisy,35,9.0
+Fixed-time,noisy,36,19.0
+Fixed-time,noisy,37,9.0
+Fixed-time,noisy,38,23.0
+Fixed-time,noisy,39,11.0
+Fixed-time,noisy,40,8.0
+Fixed-time,noisy,41,17.0
+Fixed-time,noisy,42,11.0
+Fixed-time,noisy,43,10.0
+Fixed-time,noisy,44,17.0
+Fixed-time,noisy,45,13.0
+Fixed-time,noisy,46,12.0
+Fixed-time,noisy,47,10.0
+Fixed-time,noisy,48,18.0
+Fixed-time,noisy,49,18.0
+Fixed-time,noisy,50,30.0
+Fixed-time,noisy,51,11.0
+Fixed-time,noisy,52,17.0
+Fixed-time,noisy,53,16.0
+Fixed-time,noisy,54,18.0
+Fixed-time,noisy,55,18.0
+Fixed-time,noisy,56,7.0
+Fixed-time,noisy,57,11.0
+Fixed-time,noisy,58,6.0
+Fixed-time,noisy,59,7.0
+Max-Pressure,noisy,0,3.0
+Max-Pressure,noisy,1,6.0
+Max-Pressure,noisy,2,5.0
+Max-Pressure,noisy,3,7.0
+Max-Pressure,noisy,4,5.0
+Max-Pressure,noisy,5,4.0
+Max-Pressure,noisy,6,6.0
+Max-Pressure,noisy,7,1.0
+Max-Pressure,noisy,8,5.0
+Max-Pressure,noisy,9,3.0
+Max-Pressure,noisy,10,5.0
+Max-Pressure,noisy,11,6.0
+Max-Pressure,noisy,12,5.0
+Max-Pressure,noisy,13,8.0
+Max-Pressure,noisy,14,8.0
+Max-Pressure,noisy,15,6.0
+Max-Pressure,noisy,16,1.0
+Max-Pressure,noisy,17,3.0
+Max-Pressure,noisy,18,1.0
+Max-Pressure,noisy,19,9.0
+Max-Pressure,noisy,20,7.0
+Max-Pressure,noisy,21,2.0
+Max-Pressure,noisy,22,3.0
+Max-Pressure,noisy,23,4.0
+Max-Pressure,noisy,24,5.0
+Max-Pressure,noisy,25,5.0
+Max-Pressure,noisy,26,11.0
+Max-Pressure,noisy,27,6.0
+Max-Pressure,noisy,28,9.0
+Max-Pressure,noisy,29,5.0
+Max-Pressure,noisy,30,6.0
+Max-Pressure,noisy,31,5.0
+Max-Pressure,noisy,32,4.0
+Max-Pressure,noisy,33,2.0
+Max-Pressure,noisy,34,5.0
+Max-Pressure,noisy,35,6.0
+Max-Pressure,noisy,36,7.0
+Max-Pressure,noisy,37,5.0
+Max-Pressure,noisy,38,4.0
+Max-Pressure,noisy,39,8.0
+Max-Pressure,noisy,40,8.0
+Max-Pressure,noisy,41,8.0
+Max-Pressure,noisy,42,2.0
+Max-Pressure,noisy,43,7.0
+Max-Pressure,noisy,44,9.0
+Max-Pressure,noisy,45,7.0
+Max-Pressure,noisy,46,12.0
+Max-Pressure,noisy,47,8.0
+Max-Pressure,noisy,48,7.0
+Max-Pressure,noisy,49,11.0
+Max-Pressure,noisy,50,7.0
+Max-Pressure,noisy,51,8.0
+Max-Pressure,noisy,52,11.0
+Max-Pressure,noisy,53,9.0
+Max-Pressure,noisy,54,14.0
+Max-Pressure,noisy,55,4.0
+Max-Pressure,noisy,56,8.0
+Max-Pressure,noisy,57,3.0
+Max-Pressure,noisy,58,6.0
+Max-Pressure,noisy,59,2.0
+PPO,noisy,0,8.0
+PPO,noisy,1,6.0
+PPO,noisy,2,6.0
+PPO,noisy,3,4.0
+PPO,noisy,4,9.0
+PPO,noisy,5,11.0
+PPO,noisy,6,4.0
+PPO,noisy,7,6.0
+PPO,noisy,8,4.0
+PPO,noisy,9,2.0
+PPO,noisy,10,9.0
+PPO,noisy,11,7.0
+PPO,noisy,12,3.0
+PPO,noisy,13,5.0
+PPO,noisy,14,5.0
+PPO,noisy,15,6.0
+PPO,noisy,16,12.0
+PPO,noisy,17,4.0
+PPO,noisy,18,3.0
+PPO,noisy,19,8.0
+PPO,noisy,20,8.0
+PPO,noisy,21,3.0
+PPO,noisy,22,1.0
+PPO,noisy,23,9.0
+PPO,noisy,24,13.0
+PPO,noisy,25,12.0
+PPO,noisy,26,11.0
+PPO,noisy,27,5.0
+PPO,noisy,28,4.0
+PPO,noisy,29,5.0
+PPO,noisy,30,6.0
+PPO,noisy,31,8.0
+PPO,noisy,32,7.0
+PPO,noisy,33,6.0
+PPO,noisy,34,7.0
+PPO,noisy,35,7.0
+PPO,noisy,36,8.0
+PPO,noisy,37,12.0
+PPO,noisy,38,4.0
+PPO,noisy,39,6.0
+PPO,noisy,40,5.0
+PPO,noisy,41,10.0
+PPO,noisy,42,6.0
+PPO,noisy,43,7.0
+PPO,noisy,44,7.0
+PPO,noisy,45,8.0
+PPO,noisy,46,12.0
+PPO,noisy,47,9.0
+PPO,noisy,48,6.0
+PPO,noisy,49,7.0
+PPO,noisy,50,10.0
+PPO,noisy,51,10.0
+PPO,noisy,52,11.0
+PPO,noisy,53,6.0
+PPO,noisy,54,22.0
+PPO,noisy,55,6.0
+PPO,noisy,56,7.0
+PPO,noisy,57,4.0
+PPO,noisy,58,6.0
+PPO,noisy,59,5.0
+PPO + forecast,noisy,0,4.0
+PPO + forecast,noisy,1,4.0
+PPO + forecast,noisy,2,3.0
+PPO + forecast,noisy,3,5.0
+PPO + forecast,noisy,4,10.0
+PPO + forecast,noisy,5,11.0
+PPO + forecast,noisy,6,5.0
+PPO + forecast,noisy,7,7.0
+PPO + forecast,noisy,8,8.0
+PPO + forecast,noisy,9,7.0
+PPO + forecast,noisy,10,16.0
+PPO + forecast,noisy,11,14.0
+PPO + forecast,noisy,12,7.0
+PPO + forecast,noisy,13,11.0
+PPO + forecast,noisy,14,13.0
+PPO + forecast,noisy,15,11.0
+PPO + forecast,noisy,16,3.0
+PPO + forecast,noisy,17,1.0
+PPO + forecast,noisy,18,3.0
+PPO + forecast,noisy,19,12.0
+PPO + forecast,noisy,20,10.0
+PPO + forecast,noisy,21,1.0
+PPO + forecast,noisy,22,1.0
+PPO + forecast,noisy,23,8.0
+PPO + forecast,noisy,24,6.0
+PPO + forecast,noisy,25,9.0
+PPO + forecast,noisy,26,6.0
+PPO + forecast,noisy,27,1.0
+PPO + forecast,noisy,28,10.0
+PPO + forecast,noisy,29,3.0
+PPO + forecast,noisy,30,7.0
+PPO + forecast,noisy,31,7.0
+PPO + forecast,noisy,32,6.0
+PPO + forecast,noisy,33,4.0
+PPO + forecast,noisy,34,10.0
+PPO + forecast,noisy,35,5.0
+PPO + forecast,noisy,36,6.0
+PPO + forecast,noisy,37,4.0
+PPO + forecast,noisy,38,6.0
+PPO + forecast,noisy,39,9.0
+PPO + forecast,noisy,40,10.0
+PPO + forecast,noisy,41,8.0
+PPO + forecast,noisy,42,5.0
+PPO + forecast,noisy,43,2.0
+PPO + forecast,noisy,44,7.0
+PPO + forecast,noisy,45,5.0
+PPO + forecast,noisy,46,13.0
+PPO + forecast,noisy,47,8.0
+PPO + forecast,noisy,48,7.0
+PPO + forecast,noisy,49,2.0
+PPO + forecast,noisy,50,9.0
+PPO + forecast,noisy,51,6.0
+PPO + forecast,noisy,52,10.0
+PPO + forecast,noisy,53,10.0
+PPO + forecast,noisy,54,12.0
+PPO + forecast,noisy,55,6.0
+PPO + forecast,noisy,56,1.0
+PPO + forecast,noisy,57,4.0
+PPO + forecast,noisy,58,1.0
+PPO + forecast,noisy,59,4.0
+Uncertainty-aware PPO,noisy,0,8.0
+Uncertainty-aware PPO,noisy,1,11.0
+Uncertainty-aware PPO,noisy,2,3.0
+Uncertainty-aware PPO,noisy,3,3.0
+Uncertainty-aware PPO,noisy,4,9.0
+Uncertainty-aware PPO,noisy,5,6.0
+Uncertainty-aware PPO,noisy,6,4.0
+Uncertainty-aware PPO,noisy,7,4.0
+Uncertainty-aware PPO,noisy,8,4.0
+Uncertainty-aware PPO,noisy,9,2.0
+Uncertainty-aware PPO,noisy,10,13.0
+Uncertainty-aware PPO,noisy,11,11.0
+Uncertainty-aware PPO,noisy,12,6.0
+Uncertainty-aware PPO,noisy,13,3.0
+Uncertainty-aware PPO,noisy,14,12.0
+Uncertainty-aware PPO,noisy,15,2.0
+Uncertainty-aware PPO,noisy,16,3.0
+Uncertainty-aware PPO,noisy,17,4.0
+Uncertainty-aware PPO,noisy,18,1.0
+Uncertainty-aware PPO,noisy,19,9.0
+Uncertainty-aware PPO,noisy,20,7.0
+Uncertainty-aware PPO,noisy,21,1.0
+Uncertainty-aware PPO,noisy,22,1.0
+Uncertainty-aware PPO,noisy,23,8.0
+Uncertainty-aware PPO,noisy,24,12.0
+Uncertainty-aware PPO,noisy,25,6.0
+Uncertainty-aware PPO,noisy,26,9.0
+Uncertainty-aware PPO,noisy,27,4.0
+Uncertainty-aware PPO,noisy,28,9.0
+Uncertainty-aware PPO,noisy,29,7.0
+Uncertainty-aware PPO,noisy,30,5.0
+Uncertainty-aware PPO,noisy,31,7.0
+Uncertainty-aware PPO,noisy,32,11.0
+Uncertainty-aware PPO,noisy,33,6.0
+Uncertainty-aware PPO,noisy,34,7.0
+Uncertainty-aware PPO,noisy,35,4.0
+Uncertainty-aware PPO,noisy,36,6.0
+Uncertainty-aware PPO,noisy,37,8.0
+Uncertainty-aware PPO,noisy,38,5.0
+Uncertainty-aware PPO,noisy,39,9.0
+Uncertainty-aware PPO,noisy,40,5.0
+Uncertainty-aware PPO,noisy,41,11.0
+Uncertainty-aware PPO,noisy,42,5.0
+Uncertainty-aware PPO,noisy,43,5.0
+Uncertainty-aware PPO,noisy,44,4.0
+Uncertainty-aware PPO,noisy,45,24.0
+Uncertainty-aware PPO,noisy,46,9.0
+Uncertainty-aware PPO,noisy,47,5.0
+Uncertainty-aware PPO,noisy,48,11.0
+Uncertainty-aware PPO,noisy,49,7.0
+Uncertainty-aware PPO,noisy,50,12.0
+Uncertainty-aware PPO,noisy,51,7.0
+Uncertainty-aware PPO,noisy,52,12.0
+Uncertainty-aware PPO,noisy,53,4.0
+Uncertainty-aware PPO,noisy,54,17.0
+Uncertainty-aware PPO,noisy,55,8.0
+Uncertainty-aware PPO,noisy,56,1.0
+Uncertainty-aware PPO,noisy,57,2.0
+Uncertainty-aware PPO,noisy,58,2.0
+Uncertainty-aware PPO,noisy,59,6.0
+Fixed-time,heavy,0,8.0
+Fixed-time,heavy,1,8.0
+Fixed-time,heavy,2,10.0
+Fixed-time,heavy,3,12.0
+Fixed-time,heavy,4,17.0
+Fixed-time,heavy,5,6.0
+Fixed-time,heavy,6,5.0
+Fixed-time,heavy,7,7.0
+Fixed-time,heavy,8,10.0
+Fixed-time,heavy,9,16.0
+Fixed-time,heavy,10,16.0
+Fixed-time,heavy,11,10.0
+Fixed-time,heavy,12,8.0
+Fixed-time,heavy,13,8.0
+Fixed-time,heavy,14,13.0
+Fixed-time,heavy,15,11.0
+Fixed-time,heavy,16,19.0
+Fixed-time,heavy,17,3.0
+Fixed-time,heavy,18,3.0
+Fixed-time,heavy,19,14.0
+Fixed-time,heavy,20,9.0
+Fixed-time,heavy,21,16.0
+Fixed-time,heavy,22,6.0
+Fixed-time,heavy,23,6.0
+Fixed-time,heavy,24,13.0
+Fixed-time,heavy,25,20.0
+Fixed-time,heavy,26,18.0
+Fixed-time,heavy,27,6.0
+Fixed-time,heavy,28,9.0
+Fixed-time,heavy,29,12.0
+Fixed-time,heavy,30,9.0
+Fixed-time,heavy,31,17.0
+Fixed-time,heavy,32,10.0
+Fixed-time,heavy,33,19.0
+Fixed-time,heavy,34,9.0
+Fixed-time,heavy,35,9.0
+Fixed-time,heavy,36,19.0
+Fixed-time,heavy,37,9.0
+Fixed-time,heavy,38,23.0
+Fixed-time,heavy,39,11.0
+Fixed-time,heavy,40,8.0
+Fixed-time,heavy,41,17.0
+Fixed-time,heavy,42,11.0
+Fixed-time,heavy,43,10.0
+Fixed-time,heavy,44,17.0
+Fixed-time,heavy,45,13.0
+Fixed-time,heavy,46,12.0
+Fixed-time,heavy,47,10.0
+Fixed-time,heavy,48,18.0
+Fixed-time,heavy,49,18.0
+Fixed-time,heavy,50,30.0
+Fixed-time,heavy,51,11.0
+Fixed-time,heavy,52,17.0
+Fixed-time,heavy,53,16.0
+Fixed-time,heavy,54,18.0
+Fixed-time,heavy,55,18.0
+Fixed-time,heavy,56,7.0
+Fixed-time,heavy,57,11.0
+Fixed-time,heavy,58,6.0
+Fixed-time,heavy,59,7.0
+Max-Pressure,heavy,0,5.0
+Max-Pressure,heavy,1,6.0
+Max-Pressure,heavy,2,8.0
+Max-Pressure,heavy,3,6.0
+Max-Pressure,heavy,4,6.0
+Max-Pressure,heavy,5,4.0
+Max-Pressure,heavy,6,2.0
+Max-Pressure,heavy,7,3.0
+Max-Pressure,heavy,8,2.0
+Max-Pressure,heavy,9,3.0
+Max-Pressure,heavy,10,5.0
+Max-Pressure,heavy,11,7.0
+Max-Pressure,heavy,12,6.0
+Max-Pressure,heavy,13,6.0
+Max-Pressure,heavy,14,8.0
+Max-Pressure,heavy,15,3.0
+Max-Pressure,heavy,16,5.0
+Max-Pressure,heavy,17,1.0
+Max-Pressure,heavy,18,1.0
+Max-Pressure,heavy,19,7.0
+Max-Pressure,heavy,20,7.0
+Max-Pressure,heavy,21,5.0
+Max-Pressure,heavy,22,4.0
+Max-Pressure,heavy,23,4.0
+Max-Pressure,heavy,24,7.0
+Max-Pressure,heavy,25,8.0
+Max-Pressure,heavy,26,9.0
+Max-Pressure,heavy,27,6.0
+Max-Pressure,heavy,28,9.0
+Max-Pressure,heavy,29,5.0
+Max-Pressure,heavy,30,5.0
+Max-Pressure,heavy,31,7.0
+Max-Pressure,heavy,32,3.0
+Max-Pressure,heavy,33,1.0
+Max-Pressure,heavy,34,8.0
+Max-Pressure,heavy,35,6.0
+Max-Pressure,heavy,36,6.0
+Max-Pressure,heavy,37,8.0
+Max-Pressure,heavy,38,4.0
+Max-Pressure,heavy,39,5.0
+Max-Pressure,heavy,40,4.0
+Max-Pressure,heavy,41,11.0
+Max-Pressure,heavy,42,5.0
+Max-Pressure,heavy,43,5.0
+Max-Pressure,heavy,44,9.0
+Max-Pressure,heavy,45,7.0
+Max-Pressure,heavy,46,9.0
+Max-Pressure,heavy,47,8.0
+Max-Pressure,heavy,48,11.0
+Max-Pressure,heavy,49,9.0
+Max-Pressure,heavy,50,7.0
+Max-Pressure,heavy,51,12.0
+Max-Pressure,heavy,52,14.0
+Max-Pressure,heavy,53,6.0
+Max-Pressure,heavy,54,11.0
+Max-Pressure,heavy,55,4.0
+Max-Pressure,heavy,56,13.0
+Max-Pressure,heavy,57,7.0
+Max-Pressure,heavy,58,2.0
+Max-Pressure,heavy,59,2.0
+PPO,heavy,0,8.0
+PPO,heavy,1,6.0
+PPO,heavy,2,4.0
+PPO,heavy,3,12.0
+PPO,heavy,4,8.0
+PPO,heavy,5,10.0
+PPO,heavy,6,5.0
+PPO,heavy,7,5.0
+PPO,heavy,8,6.0
+PPO,heavy,9,0.0
+PPO,heavy,10,9.0
+PPO,heavy,11,6.0
+PPO,heavy,12,4.0
+PPO,heavy,13,5.0
+PPO,heavy,14,5.0
+PPO,heavy,15,4.0
+PPO,heavy,16,3.0
+PPO,heavy,17,1.0
+PPO,heavy,18,3.0
+PPO,heavy,19,7.0
+PPO,heavy,20,8.0
+PPO,heavy,21,2.0
+PPO,heavy,22,5.0
+PPO,heavy,23,8.0
+PPO,heavy,24,6.0
+PPO,heavy,25,7.0
+PPO,heavy,26,6.0
+PPO,heavy,27,5.0
+PPO,heavy,28,8.0
+PPO,heavy,29,3.0
+PPO,heavy,30,7.0
+PPO,heavy,31,6.0
+PPO,heavy,32,7.0
+PPO,heavy,33,6.0
+PPO,heavy,34,3.0
+PPO,heavy,35,7.0
+PPO,heavy,36,5.0
+PPO,heavy,37,4.0
+PPO,heavy,38,6.0
+PPO,heavy,39,8.0
+PPO,heavy,40,10.0
+PPO,heavy,41,6.0
+PPO,heavy,42,9.0
+PPO,heavy,43,5.0
+PPO,heavy,44,8.0
+PPO,heavy,45,14.0
+PPO,heavy,46,12.0
+PPO,heavy,47,9.0
+PPO,heavy,48,11.0
+PPO,heavy,49,17.0
+PPO,heavy,50,15.0
+PPO,heavy,51,11.0
+PPO,heavy,52,9.0
+PPO,heavy,53,4.0
+PPO,heavy,54,16.0
+PPO,heavy,55,8.0
+PPO,heavy,56,2.0
+PPO,heavy,57,4.0
+PPO,heavy,58,5.0
+PPO,heavy,59,5.0
+PPO + forecast,heavy,0,8.0
+PPO + forecast,heavy,1,6.0
+PPO + forecast,heavy,2,3.0
+PPO + forecast,heavy,3,4.0
+PPO + forecast,heavy,4,11.0
+PPO + forecast,heavy,5,9.0
+PPO + forecast,heavy,6,4.0
+PPO + forecast,heavy,7,3.0
+PPO + forecast,heavy,8,7.0
+PPO + forecast,heavy,9,6.0
+PPO + forecast,heavy,10,15.0
+PPO + forecast,heavy,11,12.0
+PPO + forecast,heavy,12,7.0
+PPO + forecast,heavy,13,6.0
+PPO + forecast,heavy,14,4.0
+PPO + forecast,heavy,15,6.0
+PPO + forecast,heavy,16,6.0
+PPO + forecast,heavy,17,5.0
+PPO + forecast,heavy,18,2.0
+PPO + forecast,heavy,19,5.0
+PPO + forecast,heavy,20,8.0
+PPO + forecast,heavy,21,3.0
+PPO + forecast,heavy,22,2.0
+PPO + forecast,heavy,23,3.0
+PPO + forecast,heavy,24,13.0
+PPO + forecast,heavy,25,15.0
+PPO + forecast,heavy,26,10.0
+PPO + forecast,heavy,27,5.0
+PPO + forecast,heavy,28,5.0
+PPO + forecast,heavy,29,10.0
+PPO + forecast,heavy,30,7.0
+PPO + forecast,heavy,31,11.0
+PPO + forecast,heavy,32,4.0
+PPO + forecast,heavy,33,2.0
+PPO + forecast,heavy,34,9.0
+PPO + forecast,heavy,35,7.0
+PPO + forecast,heavy,36,6.0
+PPO + forecast,heavy,37,11.0
+PPO + forecast,heavy,38,8.0
+PPO + forecast,heavy,39,8.0
+PPO + forecast,heavy,40,9.0
+PPO + forecast,heavy,41,8.0
+PPO + forecast,heavy,42,4.0
+PPO + forecast,heavy,43,9.0
+PPO + forecast,heavy,44,10.0
+PPO + forecast,heavy,45,20.0
+PPO + forecast,heavy,46,8.0
+PPO + forecast,heavy,47,8.0
+PPO + forecast,heavy,48,11.0
+PPO + forecast,heavy,49,8.0
+PPO + forecast,heavy,50,7.0
+PPO + forecast,heavy,51,6.0
+PPO + forecast,heavy,52,13.0
+PPO + forecast,heavy,53,7.0
+PPO + forecast,heavy,54,17.0
+PPO + forecast,heavy,55,5.0
+PPO + forecast,heavy,56,9.0
+PPO + forecast,heavy,57,3.0
+PPO + forecast,heavy,58,7.0
+PPO + forecast,heavy,59,4.0
+Uncertainty-aware PPO,heavy,0,8.0
+Uncertainty-aware PPO,heavy,1,11.0
+Uncertainty-aware PPO,heavy,2,3.0
+Uncertainty-aware PPO,heavy,3,3.0
+Uncertainty-aware PPO,heavy,4,10.0
+Uncertainty-aware PPO,heavy,5,6.0
+Uncertainty-aware PPO,heavy,6,3.0
+Uncertainty-aware PPO,heavy,7,8.0
+Uncertainty-aware PPO,heavy,8,5.0
+Uncertainty-aware PPO,heavy,9,3.0
+Uncertainty-aware PPO,heavy,10,11.0
+Uncertainty-aware PPO,heavy,11,6.0
+Uncertainty-aware PPO,heavy,12,8.0
+Uncertainty-aware PPO,heavy,13,4.0
+Uncertainty-aware PPO,heavy,14,8.0
+Uncertainty-aware PPO,heavy,15,3.0
+Uncertainty-aware PPO,heavy,16,3.0
+Uncertainty-aware PPO,heavy,17,2.0
+Uncertainty-aware PPO,heavy,18,2.0
+Uncertainty-aware PPO,heavy,19,8.0
+Uncertainty-aware PPO,heavy,20,6.0
+Uncertainty-aware PPO,heavy,21,5.0
+Uncertainty-aware PPO,heavy,22,4.0
+Uncertainty-aware PPO,heavy,23,5.0
+Uncertainty-aware PPO,heavy,24,6.0
+Uncertainty-aware PPO,heavy,25,8.0
+Uncertainty-aware PPO,heavy,26,4.0
+Uncertainty-aware PPO,heavy,27,5.0
+Uncertainty-aware PPO,heavy,28,12.0
+Uncertainty-aware PPO,heavy,29,4.0
+Uncertainty-aware PPO,heavy,30,2.0
+Uncertainty-aware PPO,heavy,31,4.0
+Uncertainty-aware PPO,heavy,32,11.0
+Uncertainty-aware PPO,heavy,33,3.0
+Uncertainty-aware PPO,heavy,34,9.0
+Uncertainty-aware PPO,heavy,35,6.0
+Uncertainty-aware PPO,heavy,36,7.0
+Uncertainty-aware PPO,heavy,37,4.0
+Uncertainty-aware PPO,heavy,38,10.0
+Uncertainty-aware PPO,heavy,39,9.0
+Uncertainty-aware PPO,heavy,40,6.0
+Uncertainty-aware PPO,heavy,41,7.0
+Uncertainty-aware PPO,heavy,42,5.0
+Uncertainty-aware PPO,heavy,43,10.0
+Uncertainty-aware PPO,heavy,44,5.0
+Uncertainty-aware PPO,heavy,45,11.0
+Uncertainty-aware PPO,heavy,46,6.0
+Uncertainty-aware PPO,heavy,47,8.0
+Uncertainty-aware PPO,heavy,48,9.0
+Uncertainty-aware PPO,heavy,49,5.0
+Uncertainty-aware PPO,heavy,50,10.0
+Uncertainty-aware PPO,heavy,51,9.0
+Uncertainty-aware PPO,heavy,52,16.0
+Uncertainty-aware PPO,heavy,53,7.0
+Uncertainty-aware PPO,heavy,54,8.0
+Uncertainty-aware PPO,heavy,55,6.0
+Uncertainty-aware PPO,heavy,56,6.0
+Uncertainty-aware PPO,heavy,57,3.0
+Uncertainty-aware PPO,heavy,58,4.0
+Uncertainty-aware PPO,heavy,59,4.0

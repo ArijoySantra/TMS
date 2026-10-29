@@ -1,0 +1,10 @@
+{
+  "AUC": 0.7082,
+  "PR_AUC": 0.7595,
+  "F1": 0.6722,
+  "recall": 0.783,
+  "precision": 0.5889,
+  "threshold": 0.4,
+  "test_positive_rate": 0.5135,
+  "n_test": 1920.0
+}

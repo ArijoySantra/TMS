@@ -1,0 +1,11 @@
+model,class,AP50,AP50-95,n_gt
+yolo26s.pt,Car,0.812,0.656,1278
+yolo26s.pt,Two-wheeler,0.31,0.116,2704
+yolo26s.pt,Bus,0.593,0.489,180
+yolo26s.pt,Truck,0.472,0.372,566
+yolo26s.pt,Bicycle,0.26,0.075,54
+rtdetr-l.pt,Car,0.843,0.706,1278
+rtdetr-l.pt,Two-wheeler,0.478,0.169,2704
+rtdetr-l.pt,Bus,0.676,0.566,180
+rtdetr-l.pt,Truck,0.63,0.494,566
+rtdetr-l.pt,Bicycle,0.265,0.098,54
